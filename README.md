@@ -1,4 +1,5 @@
 # bakery-app
+A Simple project made with Vue.js CLI. Showcases Vue Router, Components and some basic JavaScript functions.
 
 ## Project setup
 ```
